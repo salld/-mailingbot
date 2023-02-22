@@ -1,6 +1,4 @@
 from vkbottle.bot import Bot, Message
-from vkbottle.dispatch.rules.base import CommandRule
-from typing import Tuple
 import sqlite3
 
 
